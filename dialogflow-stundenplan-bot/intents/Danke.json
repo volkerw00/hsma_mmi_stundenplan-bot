@@ -1,0 +1,31 @@
+{
+  "id": "34cc1447-2d16-481f-bd23-38eb94ceb4ea",
+  "name": "Danke",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": [
+            "Immer gerne.",
+            "Bitte."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1543856469,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,14 @@
+[
+  {
+    "id": "5c8f4073-6c39-4822-b012-43a4fe017138",
+    "data": [
+      {
+        "text": "@sys.date:day",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1543847848
+  }
+]

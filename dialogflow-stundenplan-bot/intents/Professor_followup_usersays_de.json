@@ -1,0 +1,86 @@
+[
+  {
+    "id": "8f16538d-c4f5-4cb1-97b6-12f1eb171e16",
+    "data": [
+      {
+        "text": "Wer hält sie?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544193349
+  },
+  {
+    "id": "e7479774-23a4-43fb-998e-b1426d464093",
+    "data": [
+      {
+        "text": "Wer hält die Vorlesung?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544000770
+  },
+  {
+    "id": "50a3089d-66d8-4829-a432-c95a8b487d58",
+    "data": [
+      {
+        "text": "Bei wem findet es statt?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1543937024
+  },
+  {
+    "id": "ae144902-194a-40f9-8b21-db5b5f43787f",
+    "data": [
+      {
+        "text": "Wer hält es?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543937024
+  },
+  {
+    "id": "5432bbac-dadd-47fc-aab4-762d8f523c9c",
+    "data": [
+      {
+        "text": "Bei welchem Professor findet das Modul statt?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543937024
+  },
+  {
+    "id": "252adc2b-98f1-4083-8385-1989b3a2eef4",
+    "data": [
+      {
+        "text": "Welcher Professor hält @Module:module?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1543936480
+  },
+  {
+    "id": "18a6ad36-702d-4c28-ba8e-f2c09a033156",
+    "data": [
+      {
+        "text": "Bei welchem Professor findet @Module:module statt?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1543936480
+  }
+]

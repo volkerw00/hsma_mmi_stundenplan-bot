@@ -1,0 +1,36 @@
+{
+  "id": "bce0127f-5ccd-4d54-b442-f602f7bace10",
+  "name": "VorlesungenAmTag",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "faaa0679-e4a1-4266-a31f-7fa0138b6bd2",
+          "dataType": "@sys.date",
+          "name": "date",
+          "value": "$date",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1543053384,
+  "fallbackIntent": false,
+  "events": []
+}

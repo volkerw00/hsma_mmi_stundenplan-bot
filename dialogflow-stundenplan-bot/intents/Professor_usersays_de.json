@@ -1,0 +1,148 @@
+[
+  {
+    "id": "8d47128f-476d-4915-a543-8a52eb5376fc",
+    "data": [
+      {
+        "text": "Bei wem findet @Module:module statt?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1543935780
+  },
+  {
+    "id": "d2c758ef-185c-4756-9dc4-ab2c2dcec18b",
+    "data": [
+      {
+        "text": "Bei wem habe ich @Module:module?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1543568622
+  },
+  {
+    "id": "b416e244-5703-4e2a-9bbf-5b42f379233b",
+    "data": [
+      {
+        "text": "Bei welchem Professor habe ich @Module:module?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1543568622
+  },
+  {
+    "id": "911a0145-16a3-462f-bb69-fd37feb60df3",
+    "data": [
+      {
+        "text": "Wer hält ",
+        "userDefined": false
+      },
+      {
+        "text": "PPR",
+        "alias": "module",
+        "meta": "@Module",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543053733
+  },
+  {
+    "id": "1a3839e7-735e-4558-b9e8-f63cd0f57814",
+    "data": [
+      {
+        "text": "Welche Professorin hält die Vorlesung ",
+        "userDefined": false
+      },
+      {
+        "text": "MMI",
+        "alias": "module",
+        "meta": "@Module",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543053274
+  },
+  {
+    "id": "ea32b94e-fc72-48dd-812b-9d25d6b29272",
+    "data": [
+      {
+        "text": "Welche Professorin hält ",
+        "userDefined": false
+      },
+      {
+        "text": "NNW",
+        "alias": "module",
+        "meta": "@Module",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543053274
+  },
+  {
+    "id": "8b3aa6dd-73eb-4fc9-b478-2fa594ee6a66",
+    "data": [
+      {
+        "text": "Welcher Professor hält die Vorlesung ",
+        "userDefined": false
+      },
+      {
+        "text": "MMI",
+        "alias": "module",
+        "meta": "@Module",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543053274
+  },
+  {
+    "id": "e38bb6cf-9c90-42e7-9620-9341252eadf3",
+    "data": [
+      {
+        "text": "Welcher Professor hält ",
+        "userDefined": false
+      },
+      {
+        "text": "NNW",
+        "alias": "module",
+        "meta": "@Module",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543053274
+  }
+]

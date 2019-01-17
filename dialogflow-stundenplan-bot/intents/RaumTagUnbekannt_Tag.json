@@ -1,0 +1,69 @@
+{
+  "id": "40492662-581f-4bc9-81fa-45d0b0ba7640",
+  "parentId": "a32400c2-0bfa-4dba-83bc-75d14a6895a7",
+  "rootParentId": "a32400c2-0bfa-4dba-83bc-75d14a6895a7",
+  "name": "RaumTagUnbekannt_Tag",
+  "auto": true,
+  "contexts": [
+    "RaumTagUnbekannt-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "RaumTagUnbekannt.RaumTagUnbekannt_Tag",
+      "affectedContexts": [
+        {
+          "name": "Prof-followup",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "TagBekannt-followup",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "TagUnbekannt-followup",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "RaumTagUnbekannt-followup",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "e451cd55-2d4a-4f3c-88cc-f26318eda40a",
+          "required": true,
+          "dataType": "@sys.date",
+          "name": "day",
+          "value": "$day",
+          "prompts": [
+            {
+              "lang": "de",
+              "value": "Welcher Tag?"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1544450704,
+  "fallbackIntent": false,
+  "events": []
+}

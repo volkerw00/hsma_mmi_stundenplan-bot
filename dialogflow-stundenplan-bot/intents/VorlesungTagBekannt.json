@@ -1,0 +1,53 @@
+{
+  "id": "467fd011-82e0-4b41-934e-9675411b4d3c",
+  "name": "VorlesungTagBekannt",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "RaumTagBekannt-followup",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "22a9768b-eadc-4d29-8f19-c5fc532ffa6e",
+          "required": false,
+          "dataType": "@Module",
+          "name": "module",
+          "value": "$module",
+          "isList": false
+        },
+        {
+          "id": "f3246581-74e7-4f37-bf62-60db1060de23",
+          "required": false,
+          "dataType": "@sys.date",
+          "name": "date",
+          "value": "$date",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1544534620,
+  "fallbackIntent": false,
+  "events": []
+}

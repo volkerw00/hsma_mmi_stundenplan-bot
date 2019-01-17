@@ -1,0 +1,50 @@
+{
+  "id": "414bacd5-28e2-46a6-886f-9840e6da16dc",
+  "name": "VorlesungTagUnbekannt",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "Prof-followup",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "RaumTagUnbekannt-followup",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "8eebb04f-21dc-4831-b536-7f0a5563769b",
+          "required": false,
+          "dataType": "@Module",
+          "name": "module",
+          "value": "$module",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1544372617,
+  "fallbackIntent": false,
+  "events": []
+}

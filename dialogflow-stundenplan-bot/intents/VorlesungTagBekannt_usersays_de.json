@@ -1,0 +1,226 @@
+[
+  {
+    "id": "b72ddbd9-50c0-4e2e-95ca-e8e8433e9112",
+    "data": [
+      {
+        "text": "Zu welcher Zeit habe ich ",
+        "userDefined": false
+      },
+      {
+        "text": "NNW",
+        "alias": "module",
+        "meta": "@Module",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "am Mittwoch",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544000563
+  },
+  {
+    "id": "98732f69-ee12-4a7d-a552-06a0673fc215",
+    "data": [
+      {
+        "text": "Zu welcher Zeit habe ich ",
+        "userDefined": false
+      },
+      {
+        "text": "am Mittwoch",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "NNW",
+        "alias": "module",
+        "meta": "@Module",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544000563
+  },
+  {
+    "id": "61d67d96-e7bc-4352-a564-206ce8478428",
+    "data": [
+      {
+        "text": "Wann habe ich ",
+        "userDefined": false
+      },
+      {
+        "text": "NNW",
+        "alias": "module",
+        "meta": "@Module",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "am Donnerstag",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544000563
+  },
+  {
+    "id": "8fd22544-0926-4805-839e-a1303e2626c8",
+    "data": [
+      {
+        "text": "Wann findet ",
+        "userDefined": false
+      },
+      {
+        "text": "am Freitag",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "MMI",
+        "alias": "module",
+        "meta": "@Module",
+        "userDefined": false
+      },
+      {
+        "text": " statt?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544000563
+  },
+  {
+    "id": "ed7949f8-72d5-462e-ad03-f5796a34c89c",
+    "data": [
+      {
+        "text": "Wann habe ich ",
+        "userDefined": false
+      },
+      {
+        "text": "am Freitag",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "PPR",
+        "alias": "module",
+        "meta": "@Module",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543398580
+  },
+  {
+    "id": "06eec414-a6bb-4d6a-96df-943f2e278615",
+    "data": [
+      {
+        "text": "Wann findet ",
+        "userDefined": false
+      },
+      {
+        "text": "MMI",
+        "alias": "module",
+        "meta": "@Module",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "am Freitag",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " statt?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1542962725
+  },
+  {
+    "id": "98c9cd43-02fb-4a45-a9f0-18852419765b",
+    "data": [
+      {
+        "text": "Wann findet ",
+        "userDefined": false
+      },
+      {
+        "text": "NNW",
+        "alias": "module",
+        "meta": "@Module",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "heute",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " statt?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1542962725
+  }
+]

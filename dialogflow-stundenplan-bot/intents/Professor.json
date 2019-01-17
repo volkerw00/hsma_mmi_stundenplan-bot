@@ -1,0 +1,58 @@
+{
+  "id": "9c96b360-bc07-4cb0-bb3b-cfdb38d4ec9a",
+  "name": "Professor",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "TagBekannt-followup",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "TagUnbekannt-followup",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "RaumTagBekannt-followup",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "RaumTagUnbekannt-followup",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "c85f12c1-ebb4-4cda-bf56-eecc27774212",
+          "required": false,
+          "dataType": "@Module",
+          "name": "module",
+          "value": "$module",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1544450501,
+  "fallbackIntent": false,
+  "events": []
+}

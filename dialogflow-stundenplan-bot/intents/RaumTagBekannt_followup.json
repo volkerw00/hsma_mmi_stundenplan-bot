@@ -1,0 +1,55 @@
+{
+  "id": "b1a79ea8-dcb9-4d30-90f6-a50f020f4633",
+  "name": "RaumTagBekannt_followup",
+  "auto": true,
+  "contexts": [
+    "RaumTagBekannt-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "TagBekannt-followup",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "TagUnbekannt-followup",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "Prof-followup",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "bc9666a9-a71e-4198-91b9-996a0b410456",
+          "required": false,
+          "dataType": "@sys.date",
+          "name": "date",
+          "value": "$date",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1544447400,
+  "fallbackIntent": false,
+  "events": []
+}

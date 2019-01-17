@@ -1,0 +1,38 @@
+[
+  {
+    "id": "756ce8cc-636e-4734-890d-dcb16b1df722",
+    "data": [
+      {
+        "text": "Toll",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543856469
+  },
+  {
+    "id": "3bd2fc42-2420-4097-9039-8b8635247da5",
+    "data": [
+      {
+        "text": "Super",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543856469
+  },
+  {
+    "id": "a8fd2683-3cd1-4096-bb01-41d5eeef34e3",
+    "data": [
+      {
+        "text": "Danke",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543856469
+  }
+]

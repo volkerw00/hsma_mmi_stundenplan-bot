@@ -1,0 +1,68 @@
+[
+  {
+    "id": "09490417-5bf5-4922-b1b5-63a35b4ce259",
+    "data": [
+      {
+        "text": "Was kann man ",
+        "userDefined": false
+      },
+      {
+        "text": "Donnerstags",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " alles hören?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543053384
+  },
+  {
+    "id": "0cf3f0d8-ff2b-4422-860a-9757b8812aea",
+    "data": [
+      {
+        "text": "Welche Vorlesungen gibt es ",
+        "userDefined": false
+      },
+      {
+        "text": "am Mittwoch",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543053384
+  },
+  {
+    "id": "11a246cd-0c87-48eb-8cff-cf3893a46692",
+    "data": [
+      {
+        "text": "Welche Vorlesungen finden ",
+        "userDefined": false
+      },
+      {
+        "text": "am Dienstag",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " statt?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543053384
+  }
+]

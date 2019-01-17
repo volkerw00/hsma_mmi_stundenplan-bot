@@ -1,0 +1,112 @@
+[
+  {
+    "id": "cf8dbf30-5729-42f9-bc2e-6fdb665c3c7c",
+    "data": [
+      {
+        "text": "Wo kann ich das ",
+        "userDefined": false
+      },
+      {
+        "text": "am Freitag",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " hören",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544370860
+  },
+  {
+    "id": "3b277563-6faf-4665-92c1-436bdb5623b6",
+    "data": [
+      {
+        "text": "In welchem Raum ",
+        "userDefined": false
+      },
+      {
+        "text": "am Donnerstag",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544370860
+  },
+  {
+    "id": "03987e14-9c29-4442-b170-adc42d42bb30",
+    "data": [
+      {
+        "text": "Wo muss ich ",
+        "userDefined": false
+      },
+      {
+        "text": "Mittwochs",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " hin?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544370860
+  },
+  {
+    "id": "27222cfa-5ae8-43c3-892c-f6ee52443833",
+    "data": [
+      {
+        "text": "In welchem Raum findet sie ",
+        "userDefined": false
+      },
+      {
+        "text": "am Dienstag",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " statt?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544370860
+  },
+  {
+    "id": "d7d7575d-3f63-4ad0-8a9a-4ebc61733931",
+    "data": [
+      {
+        "text": "In welchem Raum findet die Vorlesung ",
+        "userDefined": false
+      },
+      {
+        "text": "am Montag",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " statt?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544370860
+  }
+]

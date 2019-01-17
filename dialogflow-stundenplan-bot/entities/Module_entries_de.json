@@ -1,0 +1,435 @@
+[
+  {
+    "value": "NNW",
+    "synonyms": [
+      "NNW",
+      "NW",
+      "NNB",
+      "NRW",
+      "NB",
+      "NMB",
+      "Neuronale Netze",
+      "Neuronale Netzwerke"
+    ]
+  },
+  {
+    "value": "MMI",
+    "synonyms": [
+      "MMI",
+      "MME",
+      "MI",
+      "Mensch-Maschine-Interaktion",
+      "Mensch Maschine Interaktion"
+    ]
+  },
+  {
+    "value": "PPR",
+    "synonyms": [
+      "PPR",
+      "PPA",
+      "Parallele Prozesse"
+    ]
+  },
+  {
+    "value": "APV",
+    "synonyms": [
+      "APV",
+      "Angewandte Projektarbeit:Visualisierung"
+    ]
+  },
+  {
+    "value": "KDM",
+    "synonyms": [
+      "KDM",
+      "Knowledge Discovery and Management",
+      "Knowledge Discovery",
+      "Knowledge Management"
+    ]
+  },
+  {
+    "value": "SE2",
+    "synonyms": [
+      "SE2",
+      "Software Engineering 2"
+    ]
+  },
+  {
+    "value": "SEP",
+    "synonyms": [
+      "SEP",
+      "Software-Entwicklungsprojekt"
+    ]
+  },
+  {
+    "value": "AGI",
+    "synonyms": [
+      "AGI",
+      "Agile SW-Entwicklung",
+      "Agile Softwareentwicklung",
+      "Agile Software Entwicklung"
+    ]
+  },
+  {
+    "value": "BIM",
+    "synonyms": [
+      "BIM",
+      "Bioinformatik"
+    ]
+  },
+  {
+    "value": "DM",
+    "synonyms": [
+      "DM",
+      "Datenmanagement"
+    ]
+  },
+  {
+    "value": "TEI1",
+    "synonyms": [
+      "TEI1",
+      "Technische Informatik 1"
+    ]
+  },
+  {
+    "value": "THI",
+    "synonyms": [
+      "THI",
+      "Theoretische Informatik"
+    ]
+  },
+  {
+    "value": "WEB",
+    "synonyms": [
+      "WEB",
+      "Webtechnologien",
+      "Web Technologien",
+      "Web Technologie",
+      "Webtechnologie"
+    ]
+  },
+  {
+    "value": "MA1",
+    "synonyms": [
+      "MA1",
+      "Mathematik 1"
+    ]
+  },
+  {
+    "value": "MI4",
+    "synonyms": [
+      "MI4",
+      "Medizinische Informatik 4"
+    ]
+  },
+  {
+    "value": "VS",
+    "synonyms": [
+      "VS",
+      "Verteilte Systeme"
+    ]
+  },
+  {
+    "value": "MA2",
+    "synonyms": [
+      "MA2",
+      "Mathematik 2"
+    ]
+  },
+  {
+    "value": "BWL1",
+    "synonyms": [
+      "BWL1",
+      "Betriebswirtschaftslehre 1"
+    ]
+  },
+  {
+    "value": "WAF",
+    "synonyms": [
+      "WAF",
+      "Webarchitekturen und Frameworks"
+    ]
+  },
+  {
+    "value": "KRY",
+    "synonyms": [
+      "KRY",
+      "Kryptographie"
+    ]
+  },
+  {
+    "value": "SE1",
+    "synonyms": [
+      "SE1",
+      "Software Engineering 1"
+    ]
+  },
+  {
+    "value": "TEI1-L",
+    "synonyms": [
+      "TEI1-L",
+      "Technische Informatik 1 - Labor"
+    ]
+  },
+  {
+    "value": "COM",
+    "synonyms": [
+      "COM",
+      "Compilerbau"
+    ]
+  },
+  {
+    "value": "MA3",
+    "synonyms": [
+      "MA3",
+      "Mathematik 3"
+    ]
+  },
+  {
+    "value": "MI3",
+    "synonyms": [
+      "MI3",
+      "Medizinische Informatik 3"
+    ]
+  },
+  {
+    "value": "MLE",
+    "synonyms": [
+      "MLE",
+      "Maschinelles Lernen"
+    ]
+  },
+  {
+    "value": "PR1-L",
+    "synonyms": [
+      "PR1-L",
+      "Programmierung 1 Labor"
+    ]
+  },
+  {
+    "value": "PR1",
+    "synonyms": [
+      "PR1",
+      "Programmierung 1"
+    ]
+  },
+  {
+    "value": "PR2",
+    "synonyms": [
+      "PR2",
+      "Programmierung 2"
+    ]
+  },
+  {
+    "value": "PP",
+    "synonyms": [
+      "PP",
+      "Parallele Programmierung"
+    ]
+  },
+  {
+    "value": "DTP",
+    "synonyms": [
+      "DTP",
+      "Design Thinking Projekt"
+    ]
+  },
+  {
+    "value": "EI",
+    "synonyms": [
+      "EI",
+      "Einführung in die Informatik"
+    ]
+  },
+  {
+    "value": "IGT",
+    "synonyms": [
+      "IGT",
+      "FGT",
+      "GT",
+      "IGIT",
+      "Interationstechnologien",
+      "EGT"
+    ]
+  },
+  {
+    "value": "WIA",
+    "synonyms": [
+      "WIA",
+      "Wissenschaftliches Arbeiten"
+    ]
+  },
+  {
+    "value": "GAE",
+    "synonyms": [
+      "GAE",
+      "Game Engineering"
+    ]
+  },
+  {
+    "value": "MBI",
+    "synonyms": [
+      "MBI",
+      "Mathematische Biologie"
+    ]
+  },
+  {
+    "value": "SSE",
+    "synonyms": [
+      "SSE",
+      "Secure Software Engineering"
+    ]
+  },
+  {
+    "value": "AMR",
+    "synonyms": [
+      "AMR",
+      "Autonome mobile Roboter"
+    ]
+  },
+  {
+    "value": "GDV",
+    "synonyms": [
+      "GDV",
+      "Grundlagen der Datenvisualisierung"
+    ]
+  },
+  {
+    "value": "MED3",
+    "synonyms": [
+      "MED3",
+      "Medizin 3",
+      "Medizin 3 Klinische Medizin",
+      "Klinische Medizin"
+    ]
+  },
+  {
+    "value": "MI1",
+    "synonyms": [
+      "MI1",
+      "Medizinische Informatik 1"
+    ]
+  },
+  {
+    "value": "TEI2",
+    "synonyms": [
+      "TEI2",
+      "Technische Informatik 2"
+    ]
+  },
+  {
+    "value": "AGI",
+    "synonyms": [
+      "AGI",
+      "Agile SW-Entwicklung",
+      "Agile Software Entwicklung"
+    ]
+  },
+  {
+    "value": "GAT",
+    "synonyms": [
+      "GAT",
+      "Automatisierungtechnik"
+    ]
+  },
+  {
+    "value": "MBI",
+    "synonyms": [
+      "MBI",
+      "Mathematische Biologie"
+    ]
+  },
+  {
+    "value": "APV",
+    "synonyms": [
+      "APV",
+      "Angewandte Projektarbeit: Visualisierung",
+      "Angewandte Projektarbeit Visualisierung"
+    ]
+  },
+  {
+    "value": "CVIS",
+    "synonyms": [
+      "CVIS",
+      "Computer Vision"
+    ]
+  },
+  {
+    "value": "MED1",
+    "synonyms": [
+      "MED1",
+      "Medizintechnik 1",
+      "Medizintechnik",
+      "Medizin Technik"
+    ]
+  },
+  {
+    "value": "MLD",
+    "synonyms": [
+      "MLD",
+      "Medical Launch Development"
+    ]
+  },
+  {
+    "value": "NF",
+    "synonyms": [
+      "NF",
+      "Nebenfach"
+    ]
+  },
+  {
+    "value": "SMA",
+    "synonyms": [
+      "SMA",
+      "Security Management"
+    ]
+  },
+  {
+    "value": "PR3",
+    "synonyms": [
+      "PR3",
+      "Programmierung 3"
+    ]
+  },
+  {
+    "value": "EBK",
+    "synonyms": [
+      "EBK",
+      "Entscheidbarkeit, Berechenbarkeit und Komplexität"
+    ]
+  },
+  {
+    "value": "LSD",
+    "synonyms": [
+      "LSD",
+      "Large Scale Software Development"
+    ]
+  },
+  {
+    "value": "ZMP",
+    "synonyms": [
+      "ZMP",
+      "Zulassung von Medizinprodukten",
+      "Medizinproduktzulassung"
+    ]
+  },
+  {
+    "value": "SQUAD",
+    "synonyms": [
+      "SQUAD"
+    ]
+  },
+  {
+    "value": "T-MA1",
+    "synonyms": [
+      "T-MA1",
+      "Tutorium Mathematik 1"
+    ]
+  },
+  {
+    "value": "THI-Ü",
+    "synonyms": [
+      "THI-Ü",
+      "Theoretische Informatik Übungen"
+    ]
+  }
+]

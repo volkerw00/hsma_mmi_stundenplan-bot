@@ -1,0 +1,26 @@
+[
+  {
+    "id": "80ca2147-3724-49c2-837d-e97c6ca1da08",
+    "data": [
+      {
+        "text": "Wann habe ich @Module:module?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1543511694
+  },
+  {
+    "id": "56130dca-3968-48c8-9dd7-95802061c171",
+    "data": [
+      {
+        "text": "Wann findet @Module:module statt?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1542710332
+  }
+]

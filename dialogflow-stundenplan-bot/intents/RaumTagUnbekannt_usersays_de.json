@@ -1,0 +1,112 @@
+[
+  {
+    "id": "50faefa1-8cd1-4ddc-917f-62fc58bb1a94",
+    "data": [
+      {
+        "text": "Wo findet  ",
+        "userDefined": false
+      },
+      {
+        "text": "PPR",
+        "alias": "module",
+        "meta": "@Module",
+        "userDefined": false
+      },
+      {
+        "text": " statt?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543569061
+  },
+  {
+    "id": "a5520ff6-2efc-46a6-b6a4-f0659b5d2cf1",
+    "data": [
+      {
+        "text": "Wo muss ich hin wenn ich ",
+        "userDefined": false
+      },
+      {
+        "text": "KDM",
+        "alias": "module",
+        "meta": "@Module",
+        "userDefined": false
+      },
+      {
+        "text": " höre?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543569061
+  },
+  {
+    "id": "482b6361-41dd-411a-b4fd-032f918dd4b2",
+    "data": [
+      {
+        "text": "Wo findet die Vorlesung ",
+        "userDefined": false
+      },
+      {
+        "text": "PPR",
+        "alias": "module",
+        "meta": "@Module",
+        "userDefined": false
+      },
+      {
+        "text": " statt?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543569061
+  },
+  {
+    "id": "48d87ca4-d394-44fe-b60d-82f7eb2fe3a9",
+    "data": [
+      {
+        "text": "In welchem Raum habe ich ",
+        "userDefined": false
+      },
+      {
+        "text": "MMI",
+        "alias": "module",
+        "meta": "@Module",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543569061
+  },
+  {
+    "id": "4aeee9c5-bff2-487a-a743-a0d679d51b3c",
+    "data": [
+      {
+        "text": "In welchem Raum findet ",
+        "userDefined": false
+      },
+      {
+        "text": "NNW",
+        "alias": "module",
+        "meta": "@Module",
+        "userDefined": false
+      },
+      {
+        "text": " statt?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543569061
+  }
+]

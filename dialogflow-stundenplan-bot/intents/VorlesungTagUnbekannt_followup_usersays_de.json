@@ -1,0 +1,98 @@
+[
+  {
+    "id": "2edc4f7d-d4fa-4063-aad6-b7cb5300e04f",
+    "data": [
+      {
+        "text": "An welchen Tagen findet die Vorlesung statt?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544370015
+  },
+  {
+    "id": "21682ff7-0939-4c2d-8330-e0e0e2df4503",
+    "data": [
+      {
+        "text": "An welchen Tagen kann ich es hören?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544370015
+  },
+  {
+    "id": "85511bf8-4772-4dc0-92c7-dc09c515a167",
+    "data": [
+      {
+        "text": "Wann?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544370015
+  },
+  {
+    "id": "7606d905-0740-4d7b-ad47-eaae6e36d3b3",
+    "data": [
+      {
+        "text": "Wann kann ich es hören?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544370015
+  },
+  {
+    "id": "b59834ad-b0c6-46bf-a0ec-25931ca2f98b",
+    "data": [
+      {
+        "text": "Wann wird es gehalten?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544370015
+  },
+  {
+    "id": "2f8e2559-8f43-4b80-a8ec-7fc9ce75ae85",
+    "data": [
+      {
+        "text": "Wann wird sie gehalten",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544370015
+  },
+  {
+    "id": "7912b9bd-174e-446f-a4b2-cdb5948be6ee",
+    "data": [
+      {
+        "text": "Wann findet sie statt?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544370015
+  },
+  {
+    "id": "d18d6709-4591-45b2-af40-5917a96873d2",
+    "data": [
+      {
+        "text": "Wann ist die Vorlesung?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544370015
+  }
+]

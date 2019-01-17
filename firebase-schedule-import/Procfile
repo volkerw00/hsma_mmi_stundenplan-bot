@@ -1,0 +1,1 @@
+worker: java -jar build/libs/schedule-import-1.0-SNAPSHOT.jar

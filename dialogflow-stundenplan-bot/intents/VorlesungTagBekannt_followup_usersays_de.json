@@ -1,0 +1,134 @@
+[
+  {
+    "id": "2c5dd24a-aba3-4dd7-86ae-ff48e312d4a8",
+    "data": [
+      {
+        "text": "Wann findet es ",
+        "userDefined": false
+      },
+      {
+        "text": "Dienstag",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " statt?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544448000
+  },
+  {
+    "id": "dd499bde-ca35-411f-8223-0bcd3f283cda",
+    "data": [
+      {
+        "text": "Wie viel Uhr wird sie ",
+        "userDefined": false
+      },
+      {
+        "text": "Donnerstags",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " gehalten?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544359076
+  },
+  {
+    "id": "5e2bcb8e-b116-4f50-84b1-378fe2aa4399",
+    "data": [
+      {
+        "text": "Wann findet sie ",
+        "userDefined": false
+      },
+      {
+        "text": "Dienstag",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " statt?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544359076
+  },
+  {
+    "id": "6bb37e11-a51b-482f-be6d-1bcef26fc8c2",
+    "data": [
+      {
+        "text": "Um welche Uhrzeit findet sie ",
+        "userDefined": false
+      },
+      {
+        "text": "Montags",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " statt?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544359076
+  },
+  {
+    "id": "905826ed-b131-4433-87d3-ee1fffbdf2f3",
+    "data": [
+      {
+        "text": "Wann muss ich da ",
+        "userDefined": false
+      },
+      {
+        "text": "am Mittwoch",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " hin?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544359076
+  },
+  {
+    "id": "038e64a1-76dd-42dd-9b6b-1956ecdd05b0",
+    "data": [
+      {
+        "text": "Wann findet sie ",
+        "userDefined": false
+      },
+      {
+        "text": "am Freitag",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " statt?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1544359076
+  }
+]

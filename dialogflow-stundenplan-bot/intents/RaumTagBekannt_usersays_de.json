@@ -1,0 +1,354 @@
+[
+  {
+    "id": "f0edee63-d061-4645-a24b-3558ecbf8451",
+    "data": [
+      {
+        "text": "Wo ist ",
+        "userDefined": false
+      },
+      {
+        "text": "am Freitag",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "MMI",
+        "alias": "module",
+        "meta": "@Module",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543570294
+  },
+  {
+    "id": "db3f8830-dce2-4d41-9509-ab2a67c6c6dc",
+    "data": [
+      {
+        "text": "Wo ist ",
+        "userDefined": false
+      },
+      {
+        "text": "Donnerstags",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "NNW",
+        "alias": "module",
+        "meta": "@Module",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543570294
+  },
+  {
+    "id": "26523594-d220-4fda-876a-67dfe74b124f",
+    "data": [
+      {
+        "text": "Wo ist ",
+        "userDefined": false
+      },
+      {
+        "text": "NNW",
+        "alias": "module",
+        "meta": "@Module",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "am Mittwoch",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543570294
+  },
+  {
+    "id": "1afc5744-c8ef-4b5b-b45b-7d87125250e3",
+    "data": [
+      {
+        "text": "Wo findet ",
+        "userDefined": false
+      },
+      {
+        "text": "am Freitag",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "MMI",
+        "alias": "module",
+        "meta": "@Module",
+        "userDefined": false
+      },
+      {
+        "text": " statt?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543570294
+  },
+  {
+    "id": "9e3e381e-c6d5-4ae8-8a40-a9dc5b08608a",
+    "data": [
+      {
+        "text": "Wo findet ",
+        "userDefined": false
+      },
+      {
+        "text": "Mittwochs",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "NNW",
+        "alias": "module",
+        "meta": "@Module",
+        "userDefined": false
+      },
+      {
+        "text": " statt?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543570294
+  },
+  {
+    "id": "a7c00e68-bddf-4688-bcaf-225cb8683e13",
+    "data": [
+      {
+        "text": "Wo muss ich hin, wenn ich ",
+        "userDefined": false
+      },
+      {
+        "text": "Freitags",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "MMI",
+        "alias": "module",
+        "meta": "@Module",
+        "userDefined": false
+      },
+      {
+        "text": " hören will?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543570294
+  },
+  {
+    "id": "4bed45f9-3ef4-4725-8eb2-57e658ab03c0",
+    "data": [
+      {
+        "text": "Wo findet ",
+        "userDefined": false
+      },
+      {
+        "text": "NNW",
+        "alias": "module",
+        "meta": "@Module",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "am Donnerstag",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " statt?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543570294
+  },
+  {
+    "id": "9a0fddec-4ed9-4470-94f2-e772aa09a401",
+    "data": [
+      {
+        "text": "Wo muss ich hin, wenn ich ",
+        "userDefined": false
+      },
+      {
+        "text": "KDM",
+        "alias": "module",
+        "meta": "@Module",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Dienstags",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " hören will?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543570294
+  },
+  {
+    "id": "61c45086-209e-4e11-afcd-127acdc1137e",
+    "data": [
+      {
+        "text": "Wo findet die Vorlesung ",
+        "userDefined": false
+      },
+      {
+        "text": "PPR",
+        "alias": "module",
+        "meta": "@Module",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Mittwochs",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " statt?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543570294
+  },
+  {
+    "id": "53eb0a97-db74-4f00-94c6-3a249d45c353",
+    "data": [
+      {
+        "text": "In welchem Raum habe ich ",
+        "userDefined": false
+      },
+      {
+        "text": "MMI",
+        "alias": "module",
+        "meta": "@Module",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "am Freitag",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543570294
+  },
+  {
+    "id": "01945aeb-eae3-4cae-8e0b-47e225423ae0",
+    "data": [
+      {
+        "text": "In welchem Raum findet ",
+        "userDefined": false
+      },
+      {
+        "text": "NNW",
+        "alias": "module",
+        "meta": "@Module",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "am Mittwoch",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " statt?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543570294
+  }
+]
