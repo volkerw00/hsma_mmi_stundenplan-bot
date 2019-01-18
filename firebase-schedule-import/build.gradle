@@ -1,5 +1,6 @@
 plugins {
     id 'java'
+    id 'application'
 }
 
 group 'de.volkerw.hsma.mmi'
@@ -12,8 +13,18 @@ repositories {
 }
 
 dependencies {
-    compile 'org.jsoup:jsoup:1.11.3'
-    compile 'com.google.firebase:firebase-admin:6.5.0'
+    implementation 'org.jsoup:jsoup:1.11.3'
+    implementation 'com.google.firebase:firebase-admin:6.5.0'
+
+    runtimeOnly 'org.slf4j:slf4j-simple:1.7.25'
+}
+
+application {
+    mainClassName = "de.volkerw.hsma.mmi.Main"
+}
+
+run {
+    jvmArgs '-Dorg.slf4j.simpleLogger.defaultLogLevel=info', '-Dorg.slf4j.simpleLogger.log.ScheduleWriter=debug'
 }
 
 jar {
@@ -29,5 +40,4 @@ task copyToLibs( type: Copy) {
     from configurations.compile.files
     into 'build/libs'
 }
-
 build.dependsOn copyToLibs
