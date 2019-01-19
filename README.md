@@ -4,6 +4,10 @@
 
 ![Architektur](documentation/pics/architektur.png)
 
+## Dialog-Diagramm
+
+![Dialog-Diagramm](documentation/pics/StundenplanV6.png)
+
 ## Installationsschritte
 
 ### Hinweise
