@@ -6,7 +6,7 @@
 
 ## Dialog-Diagramm
 
-![Dialog-Diagramm](documentation/pics/StundenplanV6.png)
+![Dialog-Diagramm](documentation/pics/StundenplanV7.png)
 
 ## Installationsschritte
 
